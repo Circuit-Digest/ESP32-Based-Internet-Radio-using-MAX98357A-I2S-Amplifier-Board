@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how to build an [ **ESP32-based Internet Radio**] (https://circuitdigest.com/microcontroller-projects/esp32-based-internet-radio-using-max98357a-i2s-amplifier-board) that streams audio directly from the internet using Wi-Fi connectivity. The system uses a MAX98357A I2S amplifier board to deliver high-quality digital audio output through speakers, creating a standalone internet radio device.
+This project demonstrates how to build an [**ESP32-based Internet Radio**](https://circuitdigest.com/microcontroller-projects/esp32-based-internet-radio-using-max98357a-i2s-amplifier-board) that streams audio directly from the internet using Wi-Fi connectivity. The system uses a MAX98357A I2S amplifier board to deliver high-quality digital audio output through speakers, creating a standalone internet radio device.
 
 ![ESP32 Internet Radio](https://circuitdigest.com/sites/default/files/projectimage_mic/ESP32%20Internet%20Radio.jpg)
 
