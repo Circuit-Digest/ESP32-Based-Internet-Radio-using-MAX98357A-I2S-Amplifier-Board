@@ -16,6 +16,8 @@ This project demonstrates how to build an [**ESP32-based Internet Radio**](https
 - ✅ **Low Power**: ESP32's efficient power management
 - ✅ **Plug & Play**: Automatic connection and streaming
 
+![ESP32 Internet Radio Circuit Diagram](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Interface-MAX98357A-I2S-Module-with-ESP32.png)
+
 ## Table of Contents
 
 - [Components Required](#components-required)
