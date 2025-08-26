@@ -233,9 +233,8 @@ For permanent installation, consider designing a custom PCB with:
 - **Recommended PSU**: 5V 1A minimum
 
 ## References
-
-- **Original Tutorial**: [CircuitDigest ESP32 Internet Radio](https://circuitdigest.com/microcontroller-projects/esp32-based-internet-radio-using-max98357a-i2s-amplifier-board)
 - **ESP32-audioI2S Library**: [GitHub Repository](https://github.com/schreibfaul1/ESP32-audioI2S)
+- **Projects**: [ESP32 Projects](https://circuitdigest.com/esp32-projects)
 - **MAX98357A Datasheet**: [Analog Devices Documentation](https://www.analog.com/en/products/max98357a.html)
 - **ESP32 Documentation**: [Espressif Official Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 
